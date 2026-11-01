@@ -1,0 +1,22 @@
+{
+  "wheel_id": 623,
+  "structure": "umbrella",
+  "slug": "prowaterproofingadelaide-107",
+  "project": "waterproofing-services-adelaide-timeline-9169bde420456580b0f129",
+  "parent_t1_ref": "prowaterproofingadelaide-153",
+  "node_role": "feeder",
+  "money_target": "prowaterproofingadelaide.com.au",
+  "primary_kw": "waterproofing services adelaide timeline",
+  "intended_url": "https://sitesau.github.io/prowaterproofingadelaide-107/",
+  "tier": "T2",
+  "writeback_nonce": "0197ece794ac97c6",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/waterproofing-services-adelaide-b7dab294824a91f7c0c3ea0bc8a1380/",
+      "anchor": "Waterproofing Services Adelaide: Understanding Your Options",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
